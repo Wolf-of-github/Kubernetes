@@ -58,8 +58,3 @@ on the master node processes the requests and schedules the workloads across the
     3. Status, it makes sure that the desired and the actual state matches, i.e., if 2 replicas are asked then 
     there should infact be 2 replcias (managed by etcd)
 3. The config files are generally stored in the code repo itself
-
-
-Minicube:
-1. A software that lets you test kubernetes on your local machine
-2. 
